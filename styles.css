@@ -1,0 +1,42 @@
+body{
+                margin: 0;
+                padding: auto;
+                font-family: sans-serif;
+                color: black;
+                background: repeating-linear-gradient(180deg, #e66814, #E6E6E6, #f50a0a);
+            }
+            #main{
+                text-align: center;
+
+            }
+            #title{
+                margin-top: 30px;
+            }
+            img{
+                max-width: 300px;
+                display:block;
+                margin: 0 auto;
+                position: auto;
+                border-radius: 5px;
+                padding: 0px;
+                width: 300px;
+            }
+            #image{
+                
+                object-fit: contain;
+                width="200";
+                height="300";
+                border-radius: 5px;
+            }
+            hr{
+                height: 2px;
+                border-width:0;
+                
+                background-color:black;
+            }
+            a{
+                color: blanchedalmond;
+            }
+            a:hover{
+                color: orange;
+            }
